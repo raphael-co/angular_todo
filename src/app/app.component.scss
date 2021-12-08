@@ -1,0 +1,58 @@
+body{
+    font-family: Georgia;
+    font-size: 11pt;
+    height: 100vh;
+    width:100vw
+}
+table {
+  width: 100%;
+}
+.englobe{
+  margin-left: 15%;
+  width: 70%;
+}
+.AllSupp{
+  float:right;
+}
+.input{
+  width: 100%;
+}
+ 
+h2{
+    text-align: center;
+}
+table{ 
+    align-items: center;
+    width: 100%;
+}
+.description{
+  width: 100%;
+  text-align: center;
+}
+
+tr{
+  border-bottom: 1px solid
+}
+
+mat-grid-tile {
+  background: #f5f5f5;
+}
+
+// th , td  {
+//   padding-left: 3%;
+//   margin-left: 10%;
+//     width: 100%;
+   
+//   }
+// table, th , td  {
+//     border: 1px solid grey;
+//     border-collapse: collapse;
+//     padding: 5px;
+   
+//   }
+//   table tr:nth-child(odd) {
+//     background-color: #f1f1f1;
+//   }
+//   table tr:nth-child(even) {
+//     background-color: #ffffff;
+//   }
